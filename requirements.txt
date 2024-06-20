@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+numpy
+glob2
+pandas
+matplotlib
+pillow
+joblib
+cuda-python
